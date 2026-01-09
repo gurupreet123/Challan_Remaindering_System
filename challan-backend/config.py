@@ -1,0 +1,4 @@
+# config.py
+MAX_RETRIES = 3
+CALL_START_HOUR = 12
+CALL_END_HOUR = 18
